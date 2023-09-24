@@ -1,0 +1,1 @@
+# CRISP-DM-SEMMA-AND-KDD-assignments
