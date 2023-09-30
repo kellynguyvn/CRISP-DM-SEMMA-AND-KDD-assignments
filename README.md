@@ -10,3 +10,24 @@ Articles were written overviewing each research project. You can find the links 
 ### KDD Article
 [Exploring the Landscape of Software Engineering Jobs in the U.S.: A Data Science Approach Using KDD Methodology](https://medium.com/@kelly.nguyen01/exploring-the-landscape-of-software-engineering-jobs-in-the-u-s-38edac28f36c)
 ## References
+[1] Frawley, W. J., Piatetsky-Shapiro, G., & Matheus,
+C. J., Knowledge Discovery in Databases: An
+Overview, 1992, AI Magazine, 13(3), 57-70.
+<br>
+[2] James, G., Witten, D., Hastie, T., & Tibshirani,
+R., An Introduction to Statistical Learning, 2013,
+Springer.
+<br>
+[3] Kaggle, Software Engineering Jobs Dataset, n.d., Retrieved from https://www.kaggle.com/.
+<br>
+[4] Kaggle, Emoji Dataset, n.d., Retrieved from https:
+//www.kaggle.com/.
+<br>
+[5] Wikipedia, Emoji, n.d., Retrieved from https://
+en.wikipedia.org/wiki/Emoji.
+<br>
+[6] SEMMA, SEMMA Methodology for Data
+Science, n.d., Retrieved from https:
+//www.sas.com/en_us/insights/analytics/
+what-is-data-science.html.
+
