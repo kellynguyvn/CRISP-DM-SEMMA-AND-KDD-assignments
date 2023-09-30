@@ -1,4 +1,4 @@
-# CRISP-DM-SEMMA-AND-KDD-assignments
+# CRISP-DM, SEMMA, and KDD Methodology
 ## Description
 The objective of this assignment is to demonstrate a project which uses all stages of the CRISP-DM, SEMMA, and KDD methodologies. Within this repository are three sub directories containing google collab files that demonstrate each respective methodology, as well as a LaTex pdf research paper.
 ## Medium Articles
